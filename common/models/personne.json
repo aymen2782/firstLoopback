@@ -10,16 +10,24 @@
       "type": "number",
       "required": true
     },
-    "nom": {
+    "name": {
       "type": "string",
       "required": true
     },
-    "prenom": {
+    "firstname": {
       "type": "string",
       "required": true
     },
     "age": {
       "type": "number",
+      "required": true
+    },
+    "path": {
+      "type": "string",
+      "required": true
+    },
+    "job": {
+      "type": "string",
       "required": true
     }
   },
