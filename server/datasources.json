@@ -7,7 +7,7 @@
     "host": "localhost",
     "port": 3306,
     "url": "",
-    "database": "test_pdo",
+    "database": "advancia",
     "password": "",
     "name": "accountDS",
     "user": "root",
